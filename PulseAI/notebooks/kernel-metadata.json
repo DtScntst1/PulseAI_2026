@@ -1,0 +1,13 @@
+{
+  "id": "mhsn21/pulseai-predictive-maintenance-iot",
+  "title": "PulseAI - Predictive Maintenance & IoT Analytics",
+  "code_file": "kaggle_submission.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

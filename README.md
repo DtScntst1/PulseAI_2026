@@ -3,6 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
+![App Mockup](https://files.catbox.moe/pay5dj.png)
+
+
 An innovative deep learning project analyzing sequential/time-series data to predict critical outcomes using advanced neural network architectures.
 
 ## 💡 Overview
